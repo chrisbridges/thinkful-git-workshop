@@ -6,4 +6,5 @@ ___
 
 (to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
-[Chris Bridges](https://github.com/chrisbridges)
+[Chris Bridges](https://github.com/chrisbridges)<br />
+[David Schach](https://github.com/dschach)
