@@ -1,4 +1,4 @@
-# thinkful-git-workshop
+git# thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
 Feel free to add your name and GitHub handle below
@@ -11,4 +11,6 @@ ___
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
+[Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
+
