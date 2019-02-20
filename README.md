@@ -11,6 +11,7 @@ ___
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
+[Huan Rui](https://github.com/huanrui001)<br/>
 [Jesse Rykerson](https://github.com/Jryke)<br>
 [Jessica Matheron](https://github.com/JessicaMatheron)<br/>
 [Constance Bainbridge](https://github.com/conbainbridge)<br/>
