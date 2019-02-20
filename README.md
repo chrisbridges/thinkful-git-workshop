@@ -11,6 +11,4 @@ ___
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
-Test of the gitpod
-This is very interesting.
-Learned a lot. 
+[Huan Rui](https://github.com/huanrui001)<br/>
