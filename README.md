@@ -12,3 +12,5 @@ ___
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
+[Tim Brooks](https://github.com/timryanb)<br/>
+
