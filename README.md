@@ -1,4 +1,4 @@
-# thinkful-git-workshop
+git# thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
 Feel free to add your name and GitHub handle below
@@ -12,3 +12,6 @@ ___
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
 [Jessica Matheron](https://github.com/JessicaMatheron)<br/>
+[Constance Bainbridge](https://github.com/conbainbridge)<br/>
+[Jennifer Weber](https://github.com/becomingajunior)<br/>
+[Tim Brooks](https://github.com/timryanb)<br/>
