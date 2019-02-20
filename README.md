@@ -11,6 +11,6 @@ ___
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
+[Constance Bainbridge](https://github.com/conbainbridge)<br/>
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
-
