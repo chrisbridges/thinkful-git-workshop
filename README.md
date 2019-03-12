@@ -19,5 +19,4 @@ ___
 [Constance Bainbridge](https://github.com/conbainbridge)<br/>
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
-
-random smiley
+[Ansh Gupta](https://github.com/anshgupta2000)<br/>
