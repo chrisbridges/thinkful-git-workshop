@@ -19,4 +19,6 @@ ___
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
 
-good evening :) 
+good evening :)
+
+[Brigitta Szepesi] (https://github.com/brigittasz11) <br/>
