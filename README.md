@@ -18,4 +18,4 @@ ___
 [Constance Bainbridge](https://github.com/conbainbridge)<br/>
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
-[Nischal Ravichandran] (https://github.com/nischalravichandran)<br/>
+[Nischal Ravichandran](https://github.com/nischalravichandran)<br/>
