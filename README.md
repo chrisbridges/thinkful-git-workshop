@@ -1,3 +1,4 @@
+
 git# thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
@@ -18,3 +19,5 @@ ___
 [Constance Bainbridge](https://github.com/conbainbridge)<br/>
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
+
+random smiley
