@@ -19,4 +19,4 @@ ___
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
 
-[Heena Surve](https://hithub.com/heenasurve)
+[Heena Surve](https://github.com/heenasurve)
