@@ -19,3 +19,4 @@ ___
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
 [Yvan Paquot](https://github.com/percevaus)<br/>
+[Nischal Ravichandran](https://github.com/nischalravichandran)<br/>
