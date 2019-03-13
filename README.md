@@ -20,8 +20,8 @@ ___
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
 [James Venetsanakos](https://github.com/jvenetTimeTrade)<br/>
-[Heena Surve](https://github.com/heenasurve)
-[Anna Sergienko] (https://github.com/asergienk)<br>
+[Heena Surve](https://github.com/heenasurve)<br>
+[Anna Sergienko](https://github.com/asergienk)<br>
 [Kathleen Morrissey](https://github.com/kentmssy)<br/>
 [Chels Tut](https://github.com/chelstut)<br/>
 [Graham Silva](https://github.com/grsilva1996)<br/>
