@@ -19,6 +19,7 @@ ___
 [Constance Bainbridge](https://github.com/conbainbridge)<br/>
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
+[Kathleen Morrissey](https://github.com/kentmssy)<br/>
 [Chels Tut](https://github.com/chelstut)<br/>
 [Graham Silva](https://github.com/grsilva1996)<br/>
 [Ansh Gupta](https://github.com/anshgupta2000)<br/>
