@@ -18,7 +18,7 @@ ___
 [Constance Bainbridge](https://github.com/conbainbridge)<br/>
 [Jennifer Weber](https://github.com/becomingajunior)<br/>
 [Tim Brooks](https://github.com/timryanb)<br/>
-
-good evening :)
-
 [Brigitta Szepesi](https://github.com/brigittasz11)<br/>
+[Jennifer Lim](https://github.com/emptybones)<br/>
+[Yvan Paquot](https://github.com/percevaus)<br/>
+[Nischal Ravichandran](https://github.com/nischalravichandran)<br/>
