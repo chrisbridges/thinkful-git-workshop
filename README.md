@@ -31,4 +31,4 @@ ___
 [Yvan Paquot](https://github.com/percevaus)<br/>
 [Nischal Ravichandran](https://github.com/nischalravichandran)<br/>
 [Scott Kundla](https://github.com/scottkundla)<br/>
-[Thanks, Chris!](bit.ly/freetrial-webdev)<br/>
+[Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
