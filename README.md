@@ -13,7 +13,7 @@ ___
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
 [Bema Yusupova](https://github.com/ayusupova)<br/>
-[Huan Rui](https://github.com/huanrui001)<br/>
+[Huan Rui](https://github.com/huanrui001)<br/>[]
 [Jesse Rykerson](https://github.com/Jryke)<br>
 [Jessica Matheron](https://github.com/JessicaMatheron)<br/>
 [Constance Bainbridge](https://github.com/conbainbridge)<br/>
@@ -30,3 +30,4 @@ ___
 [Jennifer Lim](https://github.com/emptybones)<br/>
 [Yvan Paquot](https://github.com/percevaus)<br/>
 [Nischal Ravichandran](https://github.com/nischalravichandran)<br/>
+[Scott Kundla] (https://github.com/scottkundla)<br/>
