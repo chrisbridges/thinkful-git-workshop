@@ -36,4 +36,4 @@ ___
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
-I made a change :)
+[Example Name](www.google.com)<br/>
