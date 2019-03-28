@@ -33,5 +33,6 @@ ___
 [Jayanthi Ganesan](https://github.com/Jaygthi)<br/>
 [Julie Spence](https://github.com/enrtopy69)<br/>
 [Huy Do](https://github.com/HuydDo)<br/>
+[Corey Stary](https://github.com/coreystary)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
