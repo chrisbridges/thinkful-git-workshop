@@ -36,4 +36,4 @@ ___
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
-anything you want
+[Example User](https://github.com)</br>
