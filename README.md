@@ -33,6 +33,7 @@ ___
 [Jayanthi Ganesan](https://github.com/Jaygthi)<br/>
 [Julie Spence](https://github.com/enrtopy69)<br/>
 [Huy Do](https://github.com/HuydDo)<br/>
+[Joshua Sorkin](https://github.com/joshuasorkin)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
