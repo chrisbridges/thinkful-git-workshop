@@ -37,5 +37,4 @@ ___
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-
-Add a smiley face :)
+[Frank Westerhoff](https://github.com/westerhofffl)<br>
