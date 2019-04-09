@@ -35,8 +35,6 @@ ___
 [Huy Do](https://github.com/HuydDo)<br/>
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
+[Olivia Alexander](https://github.com/oliviaca1027)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-
-
-Add a smiley
