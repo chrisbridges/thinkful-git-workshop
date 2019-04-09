@@ -35,5 +35,5 @@ ___
 [Huy Do](https://github.com/HuydDo)<br/>
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
-
+###[cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
