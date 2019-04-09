@@ -38,4 +38,4 @@ ___
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
-Add a smiley face :)
+[Thinkful Git Student](https://www.google.com)<br/>
