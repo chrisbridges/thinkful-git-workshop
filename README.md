@@ -7,7 +7,7 @@ ___
 
 (to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
-
+[Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
