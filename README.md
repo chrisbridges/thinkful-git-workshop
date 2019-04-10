@@ -35,6 +35,6 @@ ___
 [Huy Do](https://github.com/HuydDo)<br/>
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
-[Nish V](https://github.com/joblesspeople2222)<br/>
+[Nish V1](https://github.com/joblesspeople2222)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
