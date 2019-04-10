@@ -38,3 +38,5 @@ ___
 [Nish V1](https://github.com/joblesspeople2222)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+
+[Thinkful Git Student](https://www.google.com)<br/>
