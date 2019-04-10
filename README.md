@@ -35,5 +35,6 @@ ___
 [Huy Do](https://github.com/HuydDo)<br/>
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
+[JOhnPaul Kambazza](https://github.com/jkamby)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
