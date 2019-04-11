@@ -36,7 +36,5 @@ ___
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
-
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-
-[Thinkful Git Student](https://www.google.com)<br/>
+[Frank Westerhoff](https://github.com/westerhofffl)<br>
