@@ -7,7 +7,7 @@ ___
 
 (to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
-
+[Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
@@ -36,6 +36,7 @@ ___
 [Tori Shaffrey](https://github.com/torishaffrey)
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
+[cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
 [Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
