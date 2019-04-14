@@ -41,3 +41,5 @@ ___
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+
+[Hernan Garcia!](https://github.com/hagarciag)<br/>
