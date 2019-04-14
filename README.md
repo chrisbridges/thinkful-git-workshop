@@ -36,11 +36,11 @@ ___
 [Tori Shaffrey](https://github.com/torishaffrey)
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
+[Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
+[Hernan Garcia!](https://github.com/hagarciag)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-
-[Hernan Garcia!](https://github.com/hagarciag)<br/>
