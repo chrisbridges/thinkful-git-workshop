@@ -43,8 +43,10 @@ ___
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
+[Trujillo Ivan!](https://github.com/ivanchitous)<br/>
+
+
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
 
-Hey
