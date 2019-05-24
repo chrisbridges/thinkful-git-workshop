@@ -40,9 +40,10 @@ ___
 [Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
-[Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
 [Joshua Rego](https://github.com/jdrego) <br/>
+[Kristin Vaughn](https://github.com/knvaughn)<br>
+
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
