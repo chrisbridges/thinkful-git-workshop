@@ -42,6 +42,7 @@ ___
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
+[Phyllis J](https://github.com/pdjones70)
 [Trevahr Robertson](https://github.com/Trev-Robertson)<br/>
 [Trujillo Ivan!](https://github.com/ivanchitous)<br/>
 [Joshua Rego](https://github.com/jdrego) <br/>
