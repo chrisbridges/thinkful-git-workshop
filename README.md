@@ -43,7 +43,8 @@ ___
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
-[Kaelei Guillory] (https://github.com/kaelguillory)<br/>
+[Kaelei Guillory](https://github.com/kaelguillory)<br/>
+
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
 Hey! I am a change :)
