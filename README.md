@@ -42,6 +42,7 @@ ___
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
+[Joshua Rego](https://github.com/jdrego) <br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 
 
