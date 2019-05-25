@@ -43,5 +43,6 @@ ___
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
+[Marc L](https://github.com/mjlacroix2/thinkful-git-workshop)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
