@@ -1,4 +1,5 @@
 
+
 # git thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
@@ -49,3 +50,4 @@ ___
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+hey look at me I am a change
