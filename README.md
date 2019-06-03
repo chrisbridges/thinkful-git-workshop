@@ -1,4 +1,5 @@
 
+
 # git thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
@@ -47,5 +48,6 @@ ___
 [Trujillo Ivan!](https://github.com/ivanchitous)<br/>
 [Joshua Rego](https://github.com/jdrego) <br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
+[Kashfia Faruque](https://github.com/Kashfia18)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
