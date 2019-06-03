@@ -1,4 +1,5 @@
 
+
 # git thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
@@ -7,8 +8,8 @@ ___
 
 (to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
-[Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
 [Chris Bridges](https://github.com/chrisbridges)<br/>
+[Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
@@ -33,18 +34,22 @@ ___
 [Jayanthi Ganesan](https://github.com/Jaygthi)<br/>
 [Julie Spence](https://github.com/enrtopy69)<br/>
 [Huy Do](https://github.com/HuydDo)<br/>
-[Tori Shaffrey](https://github.com/torishaffrey)
+[Tori Shaffrey](https://github.com/torishaffrey)<br/>
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
 [cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
 [Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
-[Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
 [Kaelei Guillory](https://github.com/kaelguillory)<br/>
+[Marc L](https://github.com/mjlacroix2/thinkful-git-workshop)<br/>
+[Phyllis J](https://github.com/pdjones70)<br/>
+[Trevahr Robertson](https://github.com/Trev-Robertson)<br/>
+[Trujillo Ivan!](https://github.com/ivanchitous)<br/>
+[Joshua Rego](https://github.com/jdrego) <br/>
+[Kristin Vaughn](https://github.com/knvaughn)<br>
+[Kashfia Faruque](https://github.com/Kashfia18)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-
-Hey! I am a change :)
