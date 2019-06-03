@@ -43,6 +43,7 @@ ___
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
+[Kaelei Guillory](https://github.com/kaelguillory)<br/>
 [Marc L](https://github.com/mjlacroix2/thinkful-git-workshop)<br/>
 [Phyllis J](https://github.com/pdjones70)<br/>
 [Trevahr Robertson](https://github.com/Trev-Robertson)<br/>
@@ -50,6 +51,5 @@ ___
 [Joshua Rego](https://github.com/jdrego) <br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
-
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
