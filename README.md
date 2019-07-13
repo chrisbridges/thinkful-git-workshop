@@ -52,4 +52,6 @@ ___
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
 
+[Burak Yagli](https://github.com/Heromberg)<br/>
+
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
