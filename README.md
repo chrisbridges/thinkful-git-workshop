@@ -51,7 +51,9 @@ ___
 [Joshua Rego](https://github.com/jdrego) <br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
+[Ricky Martinez](https://github.com/dubghost37)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
-Test modification
+
+
