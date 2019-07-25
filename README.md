@@ -1,5 +1,3 @@
-
-
 # git thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
@@ -53,5 +51,3 @@ ___
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-
-Test modifcation
