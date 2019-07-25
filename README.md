@@ -50,6 +50,6 @@ ___
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
+[Alexis Frankel](https://www.thinkful.com/freepizzaparty)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-[Alexis Frankel] (https://www.thinkful.com/freepizzaparty)<br/>
