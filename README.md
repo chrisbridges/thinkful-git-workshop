@@ -51,3 +51,4 @@ ___
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+[Alexis Frankel] (https://www.thinkful.com/freepizzaparty)<br/>
