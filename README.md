@@ -49,6 +49,7 @@ ___
 [Joshua Rego](https://github.com/jdrego) <br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
+[Julia Chadha](https://github.com/jrchad)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 [Alexis Frankel] (https://www.thinkful.com/freepizzaparty)<br/>
