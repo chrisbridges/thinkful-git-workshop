@@ -38,7 +38,7 @@ ___
 [Corey Stary](https://github.com/coreystary)<br/>
 [Joshua Sorkin](https://github.com/joshuasorkin)<br/>
 [cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
-[Olivia Alexander](https://github.com/oliviaca1027)<br/>
+[Olivia Alexander](https://github.com/oliviaca1027)<br/>git
 [Nish V1](https://github.com/joblesspeople2222)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
@@ -51,6 +51,6 @@ ___
 [Joshua Rego](https://github.com/jdrego) <br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
-[Jeffrey Tully](https://github.com/jdtully)<br/>
+[Jeffrey  Tully](https://github.com/jdtully)<br/>
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
