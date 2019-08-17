@@ -53,5 +53,4 @@ ___
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-
-dribble
+[De Castro, Renea](https://github.com/reneadc96)<br/>
