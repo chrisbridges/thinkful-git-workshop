@@ -51,6 +51,7 @@ ___
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
+[Praketa Saxena] (https://github.com/kethsaxena)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
