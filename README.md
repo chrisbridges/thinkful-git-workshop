@@ -53,6 +53,5 @@ ___
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+[Jignesh Shah](https://www.thinkful.com/jigsmshah/)<br/>
 
-Hello World!!!
-Hello World!!!
