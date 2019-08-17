@@ -2,7 +2,7 @@
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
 Feel free to add your name and GitHub handle below
-___
+__
 
 (to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
@@ -54,4 +54,7 @@ ___
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
-dribble
+[Deepthi Buduru](https://www.github.com/deepbud)<br/>
+hello
+
+
