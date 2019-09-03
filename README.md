@@ -2,7 +2,7 @@
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
 Feel free to add your name and GitHub handle below
-___
+__
 
 (to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
@@ -55,6 +55,9 @@ ___
 [Gloria Guldager](https://www.github.com/gloguldager)<br/>
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
+[Deepthi Buduru](https://www.github.com/deepbud)<br/>
 Elif Demir
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+
+
