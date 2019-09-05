@@ -57,6 +57,8 @@ __
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
+[De Castro, Renea](https://github.com/reneadc96)<br/>
 Elif Demir
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+
