@@ -58,7 +58,7 @@ __
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
-Elif Demir
+[Ruth A Clark](https://github.com/ruthyclark)
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
