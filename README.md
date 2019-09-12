@@ -63,5 +63,5 @@ Elif Demir
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)
-
+[Derick Tortorella](https://github.com/bakersmurf)<br/>
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
