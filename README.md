@@ -53,6 +53,7 @@ __
 [George Wilson](https://github.com/GeorgeWilson3)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
+[Sylvia Llosa](https://github.com/Masheenist)<br/>
 [Gaurav Pokharkar](https://github.com/gpokhark)<br/>
 [Gloria Guldager](https://www.github.com/gloguldager)<br/>
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
