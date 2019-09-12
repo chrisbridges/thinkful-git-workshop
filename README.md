@@ -65,3 +65,4 @@ Elif Demir
 [Ruth A Clark](https://github.com/ruthyclark)
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+[David Cowan](https://github.com/davidccowan)
