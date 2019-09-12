@@ -64,5 +64,8 @@ Elif Demir<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Chris Bridges](https://github.com/chrisbridges)<br/>
+[Lorena Sarasua](https://github.com/elorenn)
+
+
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
