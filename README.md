@@ -2,9 +2,8 @@
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
 Feel free to add your name and GitHub handle below
-___
 
-(to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
+
 
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 [Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
@@ -51,7 +50,7 @@ ___
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
-
+[Olumuyiwa Kolayemi](https://github.com/olumuyiwa19)<br/>
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
 dribble
