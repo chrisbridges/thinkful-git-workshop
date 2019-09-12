@@ -53,7 +53,6 @@ __
 [George Wilson](https://github.com/GeorgeWilson3)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
-[Sylvia Llosa](https://github.com/Masheenist)<br/>
 [Gaurav Pokharkar](https://github.com/gpokhark)<br/>
 [Gloria Guldager](https://www.github.com/gloguldager)<br/>
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
@@ -63,6 +62,6 @@ Elif Demir
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br />
-[Elena Zelenskaya](https://github.com/Panaska/)
+[Elena Zelenskaya](https://github.com/Panaska/)<br />
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
