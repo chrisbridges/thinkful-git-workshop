@@ -62,6 +62,7 @@ Elif Demir
 [Jignesh Shah](https://www.thinkful.com/jigsmshah/)<br/>
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
-[Ruth A Clark](https://github.com/ruthyclark)
+[Ruth A Clark](https://github.com/ruthyclark)<br/>
+[Lorena Sarasua](https://github.com/elorenn)
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
