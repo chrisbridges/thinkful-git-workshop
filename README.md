@@ -67,4 +67,6 @@ Elif Demir<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 
+[Burak Yagli](https://github.com/Heromberg)<br/>
+
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
