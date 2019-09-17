@@ -6,7 +6,6 @@ __
 
 (to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
-[John Neff](https://github.com/jneff111)<br/>
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 [Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
@@ -65,8 +64,7 @@ Elif Demir<br/>
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
-[Chris Bridges](https://github.com/chrisbridges)<br/>
-
+[John Neff](https://github.com/jneff111)<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
