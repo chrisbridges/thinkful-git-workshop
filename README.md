@@ -66,5 +66,6 @@ Elif Demir<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [John Neff](https://github.com/jneff111)<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
+[Janell Lauritzen](https://github.com/jlauritzen8)</br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
