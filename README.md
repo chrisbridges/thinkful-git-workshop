@@ -46,6 +46,10 @@ __
 [Phyllis J](https://github.com/pdjones70)<br/>
 [Trevahr Robertson](https://github.com/Trev-Robertson)<br/>
 [Trujillo Ivan!](https://github.com/ivanchitous)<br/>
+[Joshua Rego](https://github.com/jdrego) <br/>
+[Kristin Vaughn](https://github.com/knvaughn)<br/>
+[Kashfia Faruque](https://github.com/Kashfia18)<br/>
+[Brien Smarandache](https://github.com/smarandache1990)<br/>
 [Joshua Rego](https://github.com/jdrego)<br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
