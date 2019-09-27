@@ -53,6 +53,7 @@ __
 [Joshua Rego](https://github.com/jdrego)<br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
+[Silvia Canelon](https://github.com/spcanelon) <br/>
 [Ricky Martinez](https://github.com/dubghost37)<br/>
 [Alicia Combs](https://github.com/aecombs)<br/>
 [Marci Malinowycz](https://github.com/mmbits)<br/>
