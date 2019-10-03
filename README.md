@@ -2,9 +2,7 @@
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
 Feel free to add your name and GitHub handle below
-__
 
-(to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
 
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 [Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
@@ -61,6 +59,7 @@ __
 [George Wilson](https://github.com/GeorgeWilson3)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
+[Olumuyiwa Kolayemi](https://github.com/olumuyiwa19)<br/>
 [Stiven Sanmartin](https://www.github.com/stivensanmartin)<br/>
 [Sylvia Llosa](https://github.com/Masheenist)<br/>
 [Gaurav Pokharkar](https://github.com/gpokhark)<br/>
