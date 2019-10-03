@@ -4,7 +4,6 @@ This is a repo where a bunch of awesome students learned Git / GitHub and made t
 Feel free to add your name and GitHub handle below
 
 
-
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 [Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
@@ -46,11 +45,35 @@ Feel free to add your name and GitHub handle below
 [Trevahr Robertson](https://github.com/Trev-Robertson)<br/>
 [Trujillo Ivan!](https://github.com/ivanchitous)<br/>
 [Joshua Rego](https://github.com/jdrego) <br/>
+[Kristin Vaughn](https://github.com/knvaughn)<br/>
+[Kashfia Faruque](https://github.com/Kashfia18)<br/>
+[Brien Smarandache](https://github.com/smarandache1990)<br/>
+[Joshua Rego](https://github.com/jdrego)<br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
+[Silvia Canelon](https://github.com/spcanelon) <br/>
+[Ricky Martinez](https://github.com/dubghost37)<br/>
+[Alicia Combs](https://github.com/aecombs)<br/>
+[Marci Malinowycz](https://github.com/mmbits)<br/>
+[Sean Harte](https://github.com/Hartecode)<br/>
+[George Wilson](https://github.com/GeorgeWilson3)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
 [Olumuyiwa Kolayemi](https://github.com/olumuyiwa19)<br/>
-[Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+[Stiven Sanmartin](https://www.github.com/stivensanmartin)<br/>
+[Sylvia Llosa](https://github.com/Masheenist)<br/>
+[Gaurav Pokharkar](https://github.com/gpokhark)<br/>
+[Gloria Guldager](https://www.github.com/gloguldager)<br/>
+[Praketa Saxena](https://github.com/kethsaxena)<br/>
+[Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
+Elif Demir<br/>
+[Jignesh Shah](https://www.thinkful.com/jigsmshah/)<br/>
+[Deepthi Buduru](https://www.github.com/deepbud)<br/>
+[De Castro, Renea](https://github.com/reneadc96)<br/>
+[Ruth A Clark](https://github.com/ruthyclark)<br/>
+[Monisha Manivasagam](https://github.com/monishagowtham)<br/>
+[John Neff](https://github.com/jneff111)<br/>
+[Burak Yagli](https://github.com/Heromberg)<br/>
+[Janell Lauritzen](https://github.com/jlauritzen8)</br>
 
-dribble
+[Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
