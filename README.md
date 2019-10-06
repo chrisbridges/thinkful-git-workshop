@@ -1,7 +1,8 @@
 # git thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
-Feel free to add your name and GitHub handle below
+Feel free to add your name and GitHub handle below!
+__
 
 
 [Chris Bridges](https://github.com/chrisbridges)<br/>
@@ -70,6 +71,8 @@ Elif Demir<br/>
 [Jignesh Shah](https://www.thinkful.com/jigsmshah/)<br/>
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
+[Ruth A Clark](https://github.com/ruthyclark)<br/>
+[Amy Regnier](https://github.com/amy-regnier)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br>
 [Chris Parker] (https://github.com/parkerTech314)<br>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
