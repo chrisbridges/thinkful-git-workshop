@@ -1,12 +1,11 @@
 # git thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
-Feel free to add your name and GitHub handle below!
+Feel free to add your name and GitHub handle below
 __
 
 
 [Chris Bridges](https://github.com/chrisbridges)<br/>
-[Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
@@ -80,5 +79,6 @@ Elif Demir<br/>
 [John Neff](https://github.com/jneff111)<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)</br>
+[eric hunter](https://github.com/huntereric)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
