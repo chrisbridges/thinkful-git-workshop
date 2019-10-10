@@ -82,3 +82,4 @@ Elif Demir<br/>
 [eric hunter](https://github.com/huntereric)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+Divya Gujja (https://github.com/DivyaGujja/ )
