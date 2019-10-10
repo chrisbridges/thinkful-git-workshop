@@ -4,7 +4,6 @@ This is a repo where a bunch of awesome students learned Git / GitHub and made t
 Feel free to add your name and GitHub handle below
 __
 
-
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
@@ -73,7 +72,7 @@ Elif Demir<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Amy Regnier](https://github.com/amy-regnier)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br>
-[Chris Parker] (https://github.com/parkerTech314)<br>
+[Chris Parker](https://github.com/parkerTech314)<br>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Monisha Manivasagam](https://github.com/monishagowtham)<br/>
 [John Neff](https://github.com/jneff111)<br/>
@@ -81,5 +80,7 @@ Elif Demir<br/>
 Bootsy Funkadelic<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
+[Anjuli Jain Figueroa](https://github.com/ajainf)<br/>
+[Edward Bujak](https://github.com/ebujak1)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
