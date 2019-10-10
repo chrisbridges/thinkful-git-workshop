@@ -80,6 +80,6 @@ Elif Demir<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)</br>
 [eric hunter](https://github.com/huntereric)<br>
-[Chris Barbadill](https://github.com/ChrBarba/)<br/>
+[Chris Barbadillo](https://github.com/ChrBarba/)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
