@@ -80,5 +80,6 @@ Elif Demir<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)</br>
 [eric hunter](https://github.com/huntereric)<br>
+[Mark Jordan](https://github.com/ChiaSeeded)<br/>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
