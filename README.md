@@ -81,5 +81,6 @@ Elif Demir<br/>
 [eric hunter](https://github.com/huntereric)<br>
 [Anjuli Jain Figueroa](https://github.com/ajainf)<br/>
 [Edward Bujak](https://github.com/ebujak1)<br>
+[David Apeji](https://github.com/nikuser)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
