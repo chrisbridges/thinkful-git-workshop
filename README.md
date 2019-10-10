@@ -36,6 +36,7 @@ __
 [cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
 [Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
+[Isaac McDaniel](https://github.com/mcdaniel.isaac)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
@@ -73,7 +74,7 @@ Elif Demir<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Amy Regnier](https://github.com/amy-regnier)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br>
-[Chris Parker] (https://github.com/parkerTech314)<br>
+[Chris Parker](https://github.com/parkerTech314)<br>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Monisha Manivasagam](https://github.com/monishagowtham)<br/>
 [John Neff](https://github.com/jneff111)<br/>
