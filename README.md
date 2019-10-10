@@ -79,6 +79,7 @@ Elif Demir<br/>
 [John Neff](https://github.com/jneff111)<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)</br>
+[John Obie](https://github.com/jkobie)<br>
 [eric hunter](https://github.com/huntereric)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
