@@ -1,4 +1,4 @@
-# git thinkful-git-workshop
+gut # git thinkful-git-workshop
 This is a repo where a bunch of awesome students learned Git / GitHub and made their first open-source contribution :)
 
 Feel free to add your name and GitHub handle below
@@ -78,7 +78,7 @@ Elif Demir<br/>
 [John Neff](https://github.com/jneff111)<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
-[eric hunter](https://github.com/huntereric)<br/>
 [Nithin Srinivas](https://github.com/tinnith473)<br/>
+[Edward Bujak](https://github.com/ebujak1)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
