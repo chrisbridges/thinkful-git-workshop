@@ -4,7 +4,6 @@ This is a repo where a bunch of awesome students learned Git / GitHub and made t
 Feel free to add your name and GitHub handle below
 __
 
-
 [Chris Bridges](https://github.com/chrisbridges)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
@@ -80,5 +79,7 @@ Elif Demir<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)</br>
 [eric hunter](https://github.com/huntereric)<br>
+[Brian Shin](https://github.com/bmwshin77)<br/>
+
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
