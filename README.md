@@ -79,5 +79,6 @@ Elif Demir<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
+[Peter Smith](httsps://github.com/turtlecat14)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
