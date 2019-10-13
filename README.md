@@ -35,6 +35,7 @@ __
 [cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
 [Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
+[Isaac McDaniel](https://github.com/mcdaniel.isaac)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
