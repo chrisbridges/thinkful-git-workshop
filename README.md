@@ -35,6 +35,7 @@ __
 [cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
 [Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
+[Isaac McDaniel](https://github.com/mcdaniel.isaac)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
@@ -72,14 +73,18 @@ Elif Demir<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Amy Regnier](https://github.com/amy-regnier)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br>
-[Chris Parker] (https://github.com/parkerTech314)<br>
+[Chris Parker](https://github.com/parkerTech314)<br>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Monisha Manivasagam](https://github.com/monishagowtham)<br/>
 [John Neff](https://github.com/jneff111)<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
-[Janell Lauritzen](https://github.com/jlauritzen8)</br>
+Bootsy Funkadelic<br/>
+[Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
 [Brian Shin](https://github.com/bmwshin77)<br/>
-
+[Mohammad Kh](https://github.com/wah333d)<br>
+[Anjuli Jain Figueroa](https://github.com/ajainf)<br/>
+[Edward Bujak](https://github.com/ebujak1)<br>
+[David Apeji](https://github.com/nikuser)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
