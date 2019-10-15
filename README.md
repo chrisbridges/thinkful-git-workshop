@@ -81,6 +81,7 @@ Elif Demir<br/>
 Bootsy Funkadelic<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
+[Brian Shin](https://github.com/bmwshin77)<br/>
 [Mohammad Kh](https://github.com/wah333d)<br>
 [Anjuli Jain Figueroa](https://github.com/ajainf)<br/>
 [Edward Bujak](https://github.com/ebujak1)<br>
