@@ -35,6 +35,7 @@ __
 [cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
 [Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
+[Isaac McDaniel](https://github.com/mcdaniel.isaac)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
@@ -79,6 +80,16 @@ Elif Demir<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)</br>
 [John Obie](https://github.com/jkobie)<br>
+Bootsy Funkadelic<br/>
+[Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
+[Chris Barbadillo](https://github.com/ChrBarba/)<br/>
+[prachi more](https://github.com/pamore)<br/>
+[Carrie Jones](https://github.com/ThornlessRose3)<br/>
+[Brian Shin](https://github.com/bmwshin77)<br/>
+[Mohammad Kh](https://github.com/wah333d)<br>
+[Anjuli Jain Figueroa](https://github.com/ajainf)<br/>
+[Edward Bujak](https://github.com/ebujak1)<br>
+[David Apeji](https://github.com/nikuser)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
