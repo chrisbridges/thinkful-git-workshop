@@ -78,6 +78,8 @@ Elif Demir<br/>
 [Monisha Manivasagam](https://github.com/monishagowtham)<br/>
 [John Neff](https://github.com/jneff111)<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
+[Janell Lauritzen](https://github.com/jlauritzen8)</br>
+[John Obie](https://github.com/jkobie)<br>
 Bootsy Funkadelic<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
