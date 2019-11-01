@@ -83,6 +83,7 @@ Elif Demir<br/>
 Bootsy Funkadelic<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
+[Yating Liang](http://github.com/yatingliang)<br/>
 [Chris Barbadillo](https://github.com/ChrBarba/)<br/>
 [prachi more](https://github.com/pamore)<br/>
 [Carrie Jones](https://github.com/ThornlessRose3)<br/>
