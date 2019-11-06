@@ -99,3 +99,4 @@ Bootsy Funkadelic<br/>
 [David Apeji](https://github.com/nikuser)<br>
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+[David Cowan](https://github.com/davidccowan)
