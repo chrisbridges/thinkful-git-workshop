@@ -88,6 +88,7 @@ Elif Demir<br/>
 Bootsy Funkadelic<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
+[tj martin] (https://github.com/TJMMSr)<br>
 [Yating Liang](http://github.com/yatingliang)<br/>
 [Chris Barbadillo](https://github.com/ChrBarba/)<br/>
 [prachi more](https://github.com/pamore)<br/>
@@ -97,6 +98,6 @@ Bootsy Funkadelic<br/>
 [Anjuli Jain Figueroa](https://github.com/ajainf)<br/>
 [Edward Bujak](https://github.com/ebujak1)<br>
 [David Apeji](https://github.com/nikuser)<br>
+[David Cowan](https://github.com/davidccowan)
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
-[David Cowan](https://github.com/davidccowan)
