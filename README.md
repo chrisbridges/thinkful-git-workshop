@@ -81,6 +81,8 @@ Elif Demir<br/>
 [John Neff](https://github.com/jneff111)<br/>
 [Burak Yagli](https://github.com/Heromberg)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
+[eric hunter](https://github.com/huntereric)<br>
+[Elana Cohen-Khani](https://github.com/elanaoak)<br>
 [eric hunter](https://github.com/huntereric)<br/>
 [Jack Greene](https://github.com/toopidjack)<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)</br>
