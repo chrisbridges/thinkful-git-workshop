@@ -70,6 +70,8 @@ Elif Demir <br/>
 [Jignesh Shah](https://www.thinkful.com/jigsmshah/)<br/>
 [Deepthi Buduru](https://www.github.com/deepbud)<br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
+[Ruth A Clark](https://github.com/ruthyclark)<br/>
+[Ken Summers](https://github.com/codeman14150)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)
 [Kelsey Freeborg](https://github.com/kfreeborg)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
