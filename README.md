@@ -4,10 +4,7 @@ This is a repo where a bunch of awesome students learned Git / GitHub and made t
 Feel free to add your name and GitHub handle below
 __
 
-(to create a link - "[Awesome-GitHub-User] (https://www.link-to-github.com)" (remove space))
-
 [Chris Bridges](https://github.com/chrisbridges)<br/>
-[Joshua Sorkin](https://github.com/cameron-chromiak)<br/>
 [Jason Humphrey](https://github.com/greenpioneer)<br/>
 [Ron Mendoza](https://github.com/codingendeavor)<br/>
 [David Schach](https://github.com/dschach)<br/>
@@ -38,6 +35,7 @@ __
 [cameroN chromiaK](https://github.com/cameron-chromiak)<br/>
 [Olivia Alexander](https://github.com/oliviaca1027)<br/>
 [Nish V1](https://github.com/joblesspeople2222)<br/>
+[Isaac McDaniel](https://github.com/mcdaniel.isaac)<br/>
 [JohnPaul Kambazza](https://github.com/jkamby)<br/>
 [Frank Westerhoff](https://github.com/westerhofffl)<br>
 [Hernan Garcia!](https://github.com/hagarciag)<br/>
@@ -46,13 +44,23 @@ __
 [Phyllis J](https://github.com/pdjones70)<br/>
 [Trevahr Robertson](https://github.com/Trev-Robertson)<br/>
 [Trujillo Ivan!](https://github.com/ivanchitous)<br/>
+[Joshua Rego](https://github.com/jdrego) <br/>
+[Kristin Vaughn](https://github.com/knvaughn)<br/>
+[Kashfia Faruque](https://github.com/Kashfia18)<br/>
+[Brien Smarandache](https://github.com/smarandache1990)<br/>
 [Joshua Rego](https://github.com/jdrego)<br/>
 [Kristin Vaughn](https://github.com/knvaughn)<br>
 [Kashfia Faruque](https://github.com/Kashfia18)<br/>
+[Silvia Canelon](https://github.com/spcanelon) <br/>
+[Ricky Martinez](https://github.com/dubghost37)<br/>
+[Alicia Combs](https://github.com/aecombs)<br/>
+[Marci Malinowycz](https://github.com/mmbits)<br/>
 [Sean Harte](https://github.com/Hartecode)<br/>
 [George Wilson](https://github.com/GeorgeWilson3)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
+[Olumuyiwa Kolayemi](https://github.com/olumuyiwa19)<br/>
+[Stiven Sanmartin](https://www.github.com/stivensanmartin)<br/>
 [Sylvia Llosa](https://github.com/Masheenist)<br/>
 [Gaurav Pokharkar](https://github.com/gpokhark)<br/>
 [Gloria Guldager](https://www.github.com/gloguldager)<br/>
@@ -64,5 +72,36 @@ Elif Demir <br/>
 [De Castro, Renea](https://github.com/reneadc96)<br/>
 [Ruth A Clark](https://github.com/ruthyclark)<br/>
 [Ken Summers](https://github.com/codeman14150)<br/>
+[Ruth A Clark](https://github.com/ruthyclark)
+[Kelsey Freeborg](https://github.com/kfreeborg)<br/>
+[Ruth A Clark](https://github.com/ruthyclark)<br/>
+[Amy Regnier](https://github.com/amy-regnier)<br/>
+[Ruth A Clark](https://github.com/ruthyclark)<br>
+[Chris Parker](https://github.com/parkerTech314)<br>
+[Ruth A Clark](https://github.com/ruthyclark)<br/>
+[Monisha Manivasagam](https://github.com/monishagowtham)<br/>
+[John Neff](https://github.com/jneff111)<br/>
+[Burak Yagli](https://github.com/Heromberg)<br/>
+[Janell Lauritzen](https://github.com/jlauritzen8)<br/>
+[eric hunter](https://github.com/huntereric)<br>
+[Elana Cohen-Khani](https://github.com/elanaoak)<br>
+[eric hunter](https://github.com/huntereric)<br/>
+[Jack Greene](https://github.com/toopidjack)<br/>
+[Janell Lauritzen](https://github.com/jlauritzen8)</br>
+[John Obie](https://github.com/jkobie)<br>
+Bootsy Funkadelic<br/>
+[Janell Lauritzen](https://github.com/jlauritzen8)<br/>
+[eric hunter](https://github.com/huntereric)<br>
+[tj martin] (https://github.com/TJMMSr)<br>
+[Yating Liang](http://github.com/yatingliang)<br/>
+[Chris Barbadillo](https://github.com/ChrBarba/)<br/>
+[prachi more](https://github.com/pamore)<br/>
+[Carrie Jones](https://github.com/ThornlessRose3)<br/>
+[Brian Shin](https://github.com/bmwshin77)<br/>
+[Mohammad Kh](https://github.com/wah333d)<br>
+[Anjuli Jain Figueroa](https://github.com/ajainf)<br/>
+[Edward Bujak](https://github.com/ebujak1)<br>
+[David Apeji](https://github.com/nikuser)<br>
+[David Cowan](https://github.com/davidccowan)
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
