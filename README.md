@@ -54,11 +54,12 @@ __
 [Silvia Canelon](https://github.com/spcanelon) <br/>
 [Ricky Martinez](https://github.com/dubghost37)<br/>
 [Alicia Combs](https://github.com/aecombs)<br/>
-[Marci Malinowycz](https://github.com/mmbits)<br/>
+[Marci Malinowycz](https://github.com/mmbits)<br/
 [Sean Harte](https://github.com/Hartecode)<br/>
 [George Wilson](https://github.com/GeorgeWilson3)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
+[Dan Linger](https://www.github.com/dlinger101)<br/>
 [Olumuyiwa Kolayemi](https://github.com/olumuyiwa19)<br/>
 [Stiven Sanmartin](https://www.github.com/stivensanmartin)<br/>
 [Sylvia Llosa](https://github.com/Masheenist)<br/>
