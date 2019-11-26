@@ -96,6 +96,7 @@ Elif Demir <br/>
 Bootsy Funkadelic<br/>
 [Janell Lauritzen](https://github.com/jlauritzen8)<br/>
 [eric hunter](https://github.com/huntereric)<br>
+[Sebastian Talos] (https://github.com/sebastiantalos)<br/>
 [tj martin] (https://github.com/TJMMSr)<br>
 [Yating Liang](http://github.com/yatingliang)<br/>
 [Chris Barbadillo](https://github.com/ChrBarba/)<br/>
