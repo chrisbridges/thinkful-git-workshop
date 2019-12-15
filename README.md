@@ -59,6 +59,7 @@ __
 [George Wilson](https://github.com/GeorgeWilson3)<br/>
 [Chris Krieg](http://github.com/chriskrieg95)<br/>
 [Alexis Frankel](https://www.github.com/freepizzaparty)<br/>
+[Naina Tejani](https://www.github.com/nainatejani)<br/>
 [Dan Linger](https://www.github.com/dlinger101)<br/>
 [Olumuyiwa Kolayemi](https://github.com/olumuyiwa19)<br/>
 [Stiven Sanmartin](https://www.github.com/stivensanmartin)<br/>
@@ -110,3 +111,4 @@ Bootsy Funkadelic<br/>
 [David Cowan](https://github.com/davidccowan)
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
+
