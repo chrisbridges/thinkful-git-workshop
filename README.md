@@ -109,7 +109,7 @@ Bootsy Funkadelic<br/>
 [Edward Bujak](https://github.com/ebujak1)<br>
 [David Apeji](https://github.com/nikuser)<br>
 [David Cowan](https://github.com/davidccowan)<br/>
-[Abigail Horn](https://github.com/abigailhorn)<br/> :dancer: test
+[Abigail Horn](https://github.com/abigailhorn)<br/> :dancer:
 
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
