@@ -25,7 +25,7 @@ __
 [Brigitta Szepesi](https://github.com/brigittasz11)<br/>
 [Jennifer Lim](https://github.com/emptybones)<br/>
 [Yvan Paquot](https://github.com/percevaus)<br/>
-[Nischal Ravichandran](https://github.com/nischalravichandran)<br/>
+[ngusha Shaguy](https://github.com/ngusha)<br/>
 [Jayanthi Ganesan](https://github.com/Jaygthi)<br/>
 [Julie Spence](https://github.com/enrtopy69)<br/>
 [Huy Do](https://github.com/HuydDo)<br/>
