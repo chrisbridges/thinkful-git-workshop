@@ -111,5 +111,21 @@ Bootsy Funkadelic<br/>
 [David Cowan](https://github.com/davidccowan)<br/>
 [Abigail Horn](https://github.com/abigailhorn)<br/> :dancer:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Victoria V](https://github.com/vikivikiv)<br/>
+
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
