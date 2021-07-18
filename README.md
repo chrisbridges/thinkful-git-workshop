@@ -110,6 +110,6 @@ Bootsy Funkadelic<br/>
 [David Apeji](https://github.com/nikuser)<br>
 [David Cowan](https://github.com/davidccowan)<br/>
 [Abigail Horn](https://github.com/abigailhorn)<br/> :dancer:
-
+[Vipul Raj](https://github.com/VipulRaj-123)<br/>
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
